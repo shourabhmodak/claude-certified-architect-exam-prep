@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Udemy](https://img.shields.io/badge/Udemy-6%20Practice%20Tests-EC5252?logo=udemy&logoColor=white)](https://www.udemy.com/course/claude-certified-architect-cca-f-6-practice-tests-2026/?referralCode=D8A4535C0858621CB62B)
+[![Live Simulator](https://img.shields.io/badge/Live-Exam%20Simulator-667eea)](https://shourabhmodak.github.io/claude-certified-architect-exam-prep/cca-f-simulator.html)
 [![Stars](https://img.shields.io/github/stars/shourabhmodak/claude-certified-architect-exam-prep?style=social)](https://github.com/shourabhmodak/claude-certified-architect-exam-prep/stargazers)
 
 Free study guide, domain cheat sheets, interactive practice exam, and scenario-based questions for the **Anthropic Claude Certified Architect – Foundations (CCA-F)** certification.
@@ -399,9 +400,9 @@ This cannot be bypassed by the model regardless of context state.
 
 Self-contained browser quiz — 20 questions, instant feedback, domain-score breakdown.
 
-**[→ Open cca-f-simulator.html](./cca-f-simulator.html)**
+**[→ Launch Simulator](https://shourabhmodak.github.io/claude-certified-architect-exam-prep/cca-f-simulator.html)**
 
-*(Download and open in any browser — no server needed)*
+*(Also available locally: download [cca-f-simulator.html](./cca-f-simulator.html) and open in any browser)*
 
 ---
 
