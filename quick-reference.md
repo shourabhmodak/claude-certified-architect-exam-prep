@@ -10,7 +10,7 @@ All 5 domains. Everything you need in the last 30 minutes before the exam.
 
 | Questions | Time | Pass | Retry fee |
 |-----------|------|------|-----------|
-| 60 scenario-based | 90 min | 720/1000 (72%) | $99 |
+| 60 scenario-based | 120 min | 720/1000 (72%) | $99 |
 
 ---
 
